@@ -29,9 +29,9 @@ There is no need to implement authentication or authorization. However, the foll
 * Database: MySQL or PostgreSQL
 * PHP 7.4 or higher
 * Symfony 4.4 (or the higher LTS version)
-* API Platform _(for the RESTFul API)_
-* Doctrine ORM
-* Easy Admin _(for the admin CRUDs)_
+* API Platform _(Symfony Bundle for the RESTFul API)_
+* Doctrine ORM _(Symfony Bundle for Object Relation Mapping)_
+* Easy Admin _(Symfony Bundle for the admin CRUDs)_
 * Composer
 
 ### Project 2:
